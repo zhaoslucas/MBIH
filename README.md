@@ -15,7 +15,7 @@ To precisely remove the center effect while preserving biological heterogeneity,
 can accurately obtain the center effect by calculating the differences between inter-center and intra-center heterogeneity space.
 
 ## Usage
-   1. Add the folder MBIH to the path of matlab, and make sure you have already install SPM12 correctly, enter.
+   1. Please change the folder name to MBIH, then add the folder MBIH to the path of matlab, and make sure you have already install SPM12 correctly, enter.
    2. At matlab prompt: type MBIH (Menu options appear) , enter.
    3. Click 'HCOBE'.
    4. Click 'Add a New Site' and select the normalized images of a new site. If it is necessary to delete the image of last site, we can click 'Delete the Latest Site'.
